@@ -1,0 +1,12 @@
+/* A css Module for styling child*/
+
+/* It will only be local to the child.jsx file(component), thus it can not be accidentally overwriten*/ 
+.box {
+    padding: 10px;
+    border: 3px solid grey;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 10px;
+    width: 250px;
+    background-color: red;
+}
