@@ -1,0 +1,28 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+
+    padding: 1.5rem;
+
+    background: #dad2c4;
+
+    border-bottom: 1px solid #ddd;
+
+
+}
+
+.link {
+
+    text-decoration: none;
+
+    color: #232323;
+
+    font-family: 'Courier New', Courier, monospace;
+
+    letter-spacing: 2px;
+}
+
+.link:hover {
+    color: #6b705c;;
+}
